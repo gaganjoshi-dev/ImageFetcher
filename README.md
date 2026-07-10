@@ -7,7 +7,7 @@ A native iOS app that browses remote albums and photos from [JSONPlaceholder](ht
 
 | Albums | Photo grid | Full image |
 |:---:|:---:|:---:|
-| ![Albums](docs/screenshots/albums.png) | ![Photo grid](docs/screenshots/photos.png) | ![Full image](docs/screenshots/full-image.png) |
+| ![Albums](docs/screenshots/albums.png?v=2) | ![Photo grid](docs/screenshots/photos.png?v=2) | ![Full image](docs/screenshots/full-image.png?v=2) |
 
 ---
 
